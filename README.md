@@ -1,6 +1,6 @@
 # Passport For SEO
 
-Welcome to "Passport For SEO" - your go-to resource for mastering real-world SEO.
+Your go-to resource for mastering real-world SEO.
 
 This guide is designed to help you navigate the complexities of Search Engine Optimization (SEO) in practical terms. Unlike other resources, it focuses on addressing common challenges and providing clear, actionable advice. Instead of overwhelming you with information, its aim is to empower you to make meaningful improvements to your projects. Whether you're a beginner or an experienced marketer, "Passport For SEO" offers accessible insights that deliver tangible results.
 
